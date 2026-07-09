@@ -2,7 +2,6 @@
 name = "winpe_plugin_loader"
 version = "1.0.0"
 edition = "2021"
-build = "build.rs"
 
 [features]
 default = []
